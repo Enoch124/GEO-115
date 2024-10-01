@@ -1,0 +1,53 @@
+GEO 115 PROJECT 1
+
+Project Overview
+This project is a simple Python-based Student Management System designed for the GEO115: Programming in Geographic Information Systems (GIS) course. It demonstrates the use of basic Python constructs, including functions, dictionaries, loops, and conditional statements.
+The program allows users to:
+-	Add student names and their scores
+-	View the score of a specific student
+-	Calculate and display the class average, maximum score, and minimum score
+-	Exit the program
+
+Features
+1.	Add Student: Users can input a student's name and their corresponding score.
+2.	View Student: Users can retrieve and display the score of a particular student by name.
+3.	Calculate Class Average: The program calculates the average score of all students, as well as the highest and lowest scores in the class.
+4.	Exit: The program continues running until the user opts to exit.
+
+How to Run the Program
+Prerequisites
+1.	Python 3: Ensure that Python is installed on your machine 
+2.	IDE: You can run the script in any IDE or text editor (e.g., Visual Studio Code, PyCharm, etc.).
+3.	Git: To clone the repository, Git should be installed. 
+
+
+
+Steps to Run
+1.	Input the code into the IDE 
+2.	Run the Python Script
+3.	Interact with the Program:
+ 
+  
+Program Menu
+Upon running, the program will display the following options:
+1.	Add student
+2.	View student
+3.	Calculate class average
+4.	Exit
+
+-	Option 1: Enter a student's name and score.
+-	Option 2: Retrieve a student's score by name.
+-	Option 3: Calculate the class average, highest score, and lowest score.
+-	Option 4: Exit the program.
+
+Error Handling
+- The program handles invalid inputs, such as entering non-numeric values for scores or selecting menu options outside the available range.
+- If no students are added, the program will notify the user when attempting to calculate averages.
+
+
+Repository Link
+You can find the repository here:
+ https://github.com/Enoch124/GEO-115/blob/main/GEO115_Project1.ipy
+
+
+
